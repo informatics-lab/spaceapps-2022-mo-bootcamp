@@ -8,4 +8,5 @@ dependencies:
   - iris=3.3
   - xarray=2022.06
   - cartopy=0.21
+  - matplotlib
 
