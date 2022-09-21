@@ -1,0 +1,11 @@
+name: spaceapps-mo-python-envsci
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - pandas=1.5
+  - iris=3.3
+  - xarray=2022.06
+  - cartopy=0.21
+
