@@ -5,6 +5,7 @@
 *.idx
 *.nc
 *.na
+.hidden
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
