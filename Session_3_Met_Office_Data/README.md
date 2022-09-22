@@ -10,7 +10,7 @@ If you don't have Conda, [install miniconda here](https://docs.conda.io/en/lates
 * To create the python env using conda, execute this command from this directory 
 
 ```bash
-conda env create --file requirement.yml
+conda env create --file requirements.yml
 ```
 
 * Activate your environment using 
