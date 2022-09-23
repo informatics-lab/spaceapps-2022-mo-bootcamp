@@ -25,7 +25,7 @@ We will assume you have some experience with programming langauges and ideally h
 - Software Carpentry: https://swcarpentry.github.io/python-novice-inflammation/index.html
 - DataCamp: https://www.datacamp.com/courses/intro-to-python-for-data-science
 
-Some of these tutorials require some python package management, we have done this through [Conda](https://docs.conda.io/projects/conda/en/latest/). If you prefer other package management methods please feel free to use them. More information about package management for each session will be contained in the README of that folder.
+Some of these tutorials require some python package management, we have done this through [Conda](https://docs.conda.io/projects/conda/en/latest/). If you don't have Conda, [install miniconda here](https://docs.conda.io/en/latest/miniconda.html). If you prefer other package management methods please feel free to use them. More information about package management for each session will be contained in the README of that folder.
 
 ### Acknowledgements
 
