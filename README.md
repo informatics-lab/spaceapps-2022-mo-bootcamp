@@ -1,5 +1,7 @@
 # NASA Spaceapps Bootcamp 2022
 
+![NASA SpaceApps Logo](nasa_spaceapps_logo.png)
+
 ## Introduction
 
 This series of tutorials is being delivered as part of the data bootcamp ahead of the NASA Space Apps Event 2022 hosted in Exeter by the Joint Centre of Excellence in Environmental Intelligence and TechExeter. The data bootcamp consist of three sessions:
@@ -24,3 +26,9 @@ We will assume you have some experience with programming langauges and ideally h
 - DataCamp: https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 Some of these tutorials require some python package management, we have done this through [Conda](https://docs.conda.io/projects/conda/en/latest/). If you prefer other package management methods please feel free to use them. More information about package management for each session will be contained in the README of that folder.
+
+### Acknowledgements
+
+Development of these tutorials was funded by the [Joint Centre for Excellence in Environmental Intelligence](https://jceei.org/).
+
+![JCEEI logo](jceei_logo.png)
