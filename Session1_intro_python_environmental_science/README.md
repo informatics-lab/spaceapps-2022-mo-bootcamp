@@ -25,3 +25,7 @@ conda activate spaceapps-mo-envsci
 ```bash
 jupyter lab
 ```
+
+### Downloading data
+
+There is some data that it would be useful to have downloaded ahead of the start of the session. Please see the section titled <b>Getting the sample data</b> in the [03_gridded_data.ipynb](https://github.com/informatics-lab/spaceapps-2022-mo-bootcamp/blob/main/Session1_intro_python_environmental_science/03_gridded_data.ipynb) notebook for instructions on how to download the data from the Zenodo archive. 
