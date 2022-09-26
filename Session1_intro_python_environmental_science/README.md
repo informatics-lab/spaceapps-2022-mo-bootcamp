@@ -2,4 +2,26 @@
 
 In this session, we will look at typical python tools for loading, analysing and visualising data for environmental science.
 
-To run the notebook, please use the `requirments.yml` file to  create a conda environment, using the instructions in the [README file](../README.md)  in the repository root.
+### Creating python Environments with conda 
+
+[Conda](https://docs.conda.io/projects/conda/en/latest/) is Package, dependency and environment management for any language---Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN
+
+If you don't have Conda, [install miniconda here](https://docs.conda.io/en/latest/miniconda.html)
+
+* To create the python env using conda, in the command line execute this command from this directory 
+
+```bash
+conda env create --file requirements.yml
+```
+
+* Activate your environment using 
+
+```bash
+conda activate spaceapps-mo-envsci
+```
+
+* Once your conda environment is activated, launch jupyter lab web interface by running the following command 
+
+```bash
+jupyter lab
+```
