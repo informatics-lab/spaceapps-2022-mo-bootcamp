@@ -1,0 +1,14 @@
+name: spaceapps-mo-data
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - iris
+  - xarray
+  - cfgrib
+  - iris-grib
+  - cartopy
+  - pandas
+  - numpy
+  - matplotlib
