@@ -9,4 +9,5 @@ dependencies:
   - xarray=2022.06
   - cartopy=0.21
   - matplotlib
+  - nc-time-axis=1.4
 
