@@ -12,3 +12,8 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
+  - scipy
+  - cf-units
+  - ipykernel
+  - ipython
+  - nc-time-axis
