@@ -1,5 +1,8 @@
 # spaceapps-2022-public-mo-data-exploration
 
+### Prerequisites
+
+Please view the prerequisites for each tutorial as some require setup of accounts and environment files. It is not necessary to be able to run all of the tutorials locally; through the lense of a motivation where the purpose of the content is to serve as an example of how a user might interact with useful weather and climate data, examples can be presented without interaction (though interaction may help with understanding).
 
 ### Creating python Environments with conda 
 
