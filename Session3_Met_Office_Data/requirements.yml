@@ -3,17 +3,17 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - jupyterlab
-  - iris
-  - xarray
-  - cfgrib
-  - iris-grib
-  - cartopy
-  - pandas
-  - numpy
-  - matplotlib
-  - scipy
-  - cf-units
-  - ipykernel
-  - ipython
-  - nc-time-axis
+  - jupyterlab>=3.4.7
+  - iris>=3.3
+  - xarray>=2022.6
+  - cfgrib>=0.9.10
+  - iris-grib>=0.18.0
+  - cartopy>=0.21.0
+  - pandas>=1.5.0
+  - numpy>=1.23.3
+  - matplotlib>=3.6.0
+  - scipy>=1.9.1
+  - cf-units>=3.1.1
+  - ipykernel>=6.16.0
+  - ipython>=8.5.0
+  - nc-time-axis>=1.4.1
