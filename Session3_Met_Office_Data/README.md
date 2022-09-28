@@ -1,5 +1,7 @@
 # spaceapps-2022-public-mo-data-exploration
 
+These notebooks should be self contained and have all the information within them you will need. Each notebook has links to extra relevant resources such as code documentation if you'd like to learn more
+
 ### Prerequisites
 
 Please view the prerequisites for each tutorial as some require setup of accounts and environment files. It is not necessary to be able to run all of the tutorials locally; through the lense of a motivation where the purpose of the content is to serve as an example of how a user might interact with useful weather and climate data, examples can be presented without interaction (though interaction may help with understanding).
