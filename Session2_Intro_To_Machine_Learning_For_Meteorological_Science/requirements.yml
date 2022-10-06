@@ -12,5 +12,5 @@ dependencies:
   - ipython>=8.5.0
   - tensorflow>=2.0
   - scipy>=1.9.1
-  - sklearn>=1.0.2
+  - scikit-learn>=1.0.2
   
